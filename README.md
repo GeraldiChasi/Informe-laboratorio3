@@ -123,5 +123,26 @@ Resistor 5:
 
 ![image](https://user-images.githubusercontent.com/84587120/122856383-51af1980-d2dc-11eb-8b5c-01c46de97779.png)
 
+VIDEO:
 
+https://youtu.be/cr8aMvFCYyg
 
+CONCLUSIONES:
+
+-Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos ya conocidos y mencionados con anterioridad sobre el análisis de nodos de Kirchhoff ,podemos concluir que:
+
+-El análisis de nodos es una técnica que hace uso de la LCK para expresar corrientes  en función de voltajes.
+
+-Una nodo es es un punto donde dos o más componentes tienen una conexión común en un circuito.
+
+-De acuerdo a los resultados experimentales y analiticos de nuestra tabla hay que tener muy en cuenta los signos positivos y negativos que están en cada una de las 3 ramas del circuito ,para así no obtener fallas en los resultados de nuestro sistema de ecuaciones,ya que esto nos sirvió para obtener las corrientes mediante los voltajes.
+
+-Al realizar el respectivo análisis de cada una de los nodos  del circuito, medir sus voltajes y corrientes en cada uno de sus elementos , al ponerlo en práctica en el simulador nos marca un margen de error mínimo,los cuales pueden ser producidos porque no es un escenario real, estos resultados los anotamos en la tabla .
+
+BIBLIOGRAFIA:
+
+https://es.wikipedia.org/wiki/An%C3%A1lisis_de_nodos#:~:text=En%20an%C3%A1lisis%20de%20circuitos%20el%C3%A9ctricos,de%20uno%20o%20m%C3%A1s%20nodos.&text=nunca%20puede%20acumularse%20en%20un,de%20cada%20nodo%20del%20circuito.
+
+https://www.youtube.com/watch?v=L3RJ-zVvmQg
+
+LIBRO DE CIRCUITOS ELECTRICOS 
