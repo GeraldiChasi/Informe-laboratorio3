@@ -142,15 +142,16 @@ CONCLUSIONES:
 -Al realizar el respectivo análisis de cada una de los nodos  del circuito, medir sus voltajes y corrientes en cada uno de sus elementos , al ponerlo en práctica en el simulador nos marca un margen de error mínimo,los cuales pueden ser producidos porque no es un escenario real, estos resultados los anotamos en la tabla .
 
 
+
 Bibliografía:
 
 González, A. G. (29 de Marzo de 2021). Ley de corriente de Kirchhoff: Análisis de nodos. Obtenido de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
 
 Khan Academy. (s.f.). La terminología de los circuitos. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/a/ee-circuit-terminology
 
+profesorparticular09. (24 de Agosto de 2021). Análisis de Nodos básico YouTube. Obtenido de https://www.youtube.com/watch?v=L3RJ-zVvmQg
 
-Link: 
 
-https://www.youtube.com/watch?v=L3RJ-zVvmQg
+	
 
-LIBRO DE CIRCUITOS ELECTRICOS 
+
