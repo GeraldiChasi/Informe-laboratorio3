@@ -25,10 +25,9 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
  
 3.3. INFORMACIÓN GENERAL
  
-El análisis de nodos es una técnica que hace uso de la LCK para expresar corrientes en función de voltajes.
- 
-Un nodo es el punto de unión de dos o más elementos.
-  
+
+  ![image](https://user-images.githubusercontent.com/84427371/122860742-e10bfb00-d2e3-11eb-8c3e-906d2ca5be7d.png)
+
  
 3.4. MATERIAL Y EQUIPO REQUERIDO
 
