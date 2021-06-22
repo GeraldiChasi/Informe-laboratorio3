@@ -4,15 +4,24 @@
 
 PRÁCTICA No. 3 ANÁLISIS DE NODOS.
 
-3.1. OBJETIVO DE LA PRÁCTICA
+3.1. OBJETIVO DE LA PRACTICA:
+
+OBJETIVO GENERAL
  
-Comprobar experimentalmente el Análisis de Nodos.
- 
- 
-  	3.2.    	REQUISITOS PREVIOS.
+Determinar las características y mediciones  planteadas en la resolución de  métodos experimentales en el análisis de nodos  por  la Ley de Kirchhoff  en un circuito, y comparar sus valores mediante tablas y simuladores.
+
+OBJETIVOS ESPECÍFICOS:
+
+Verificar el análisis de nodos por corrientes con la regla de kirchhoff. corriente.
+
+Verificar el análisis de nodos por voltajes con la  regla de kirchhoff .
+
+Realizar el procedimiento en un simulador llamado software Multisim que nos va a permitir experimentar de una forma más realista
+
+3.2.    	REQUISITOS PREVIOS.
  
 Se requiere el análisis analítico del circuito mostrado en la figura 3.1., mediante la técnica del análisis de nodos. El valor obtenido de cada voltaje de nodo anótelo en la tabla 3.1.
- 
+
  
 3.3. INFORMACIÓN GENERAL
  
