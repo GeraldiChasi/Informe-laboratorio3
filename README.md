@@ -46,7 +46,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 VOLTAJES
 
-![image](https://user-images.githubusercontent.com/84587120/122855590-1102d080-d2db-11eb-91f6-051ec6f40c14.png)
+![image](https://user-images.githubusercontent.com/84587091/122972988-5adccc80-d356-11eb-8ad7-63fb6683730a.png)
 
 3.5.3. Medición de Corrientes.
 
