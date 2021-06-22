@@ -56,6 +56,8 @@ VOLTAJES
 
 ![image](https://user-images.githubusercontent.com/84587120/122855736-48717d00-d2db-11eb-9f49-0454d94bd098.png)
 
+![image](https://user-images.githubusercontent.com/84587091/122981529-7ac4be00-d35f-11eb-9e2d-3257ceb446ab.png)
+
 3.5.5. Compare los valores de la tabla 3.1 y realice sus conclusiones.
  
  
