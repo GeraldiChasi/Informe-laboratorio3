@@ -127,7 +127,7 @@ Resistor 5:
 
 VIDEO:
 
-https://youtu.be/cr8aMvFCYyg
+https://youtu.be/HY8bRw9vkJg
 
 CONCLUSIONES:
 
