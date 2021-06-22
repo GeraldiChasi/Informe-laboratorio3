@@ -46,7 +46,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 VOLTAJES
 
-![image](https://user-images.githubusercontent.com/84587091/122972988-5adccc80-d356-11eb-8ad7-63fb6683730a.png)
+![image](https://user-images.githubusercontent.com/84587120/122855590-1102d080-d2db-11eb-91f6-051ec6f40c14.png)
 
 3.5.3. Medición de Corrientes.
 
@@ -89,7 +89,7 @@ Nodo D: análisis trivial.
 
 ![image](https://user-images.githubusercontent.com/84587120/122856024-bf0e7a80-d2db-11eb-9183-9fd0bba3caa5.png)
 
-Nodo de referencia 0V: asumimos que es el punto de cero voltios para todo el circuito, a partir de este medimos el voltaje para los nodos. 
+Nodo de referencia 0V: nodo de tierra, titne 0 voltios, lo tomamaos como referencia para calcular los voltajes. 
 
 SISTEMA DE ECUACIONES: 
 
